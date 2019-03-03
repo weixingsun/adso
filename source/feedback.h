@@ -19,7 +19,7 @@ class Feedback {
 
 		void aspect_words(std::string x, std::string y, std::string pin);
 		void plural_words(std::string x, std::string y, std::string pin);
-		void phonetic_words(std::string x, void *x, std::string pin);
+		void phonetic_words(std::string s, void *x, std::string pin);
 };
 
 

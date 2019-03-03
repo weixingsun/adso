@@ -1,7 +1,7 @@
 #include "adso.h"
 #include "encoding.h"
 #include "text.h"
-
+#include <cstring>
 
 #define USE_COMPILED 1
 //#define USE_SQLITE 1
